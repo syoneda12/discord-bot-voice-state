@@ -8,8 +8,9 @@
 ## 環境
 
 * docker-composeで構築
+* LINE通知はLINE Notifyを使用
 
-### ライブラリ
+## ライブラリ
 
 * [Discord.py](https://discordpy.readthedocs.io/ja/latest/api.html)
 * python-dotenv
