@@ -7,7 +7,7 @@
 
 ## 環境
 
-* 自宅サーバーやEC2で使えるようにdocker-composeでPython環境を構築 
+* 自宅サーバーやEC2等で使えるようにdocker-composeでPython環境を構築 
 * LINE通知はLINE Notifyを使用
 
 ## ライブラリ
